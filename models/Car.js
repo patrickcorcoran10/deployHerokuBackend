@@ -26,3 +26,5 @@ Car.init(
         modelName: "car"
     }
 )
+
+module.exports = Car;
