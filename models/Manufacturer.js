@@ -17,7 +17,7 @@ Manufacturer.init(
         timestamps: false,
         freezeTableName: true,
         underscored: true,
-        modelName: 'traveller'
+        modelName: 'manufacturer'
       }
 );
 
